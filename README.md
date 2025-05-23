@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.tenor.com/bQCwwu0yF90AAAAi/developer-workstation.gif" /></p>
+<p align="center"><img src="./banner.png" /></p>
 <h1 align="center">hii 👋 i'm Dhruv Ghinaiya</h1>
 <p align="center"><strong>Graduated with a B.E. in Computer Engineering from S.S. Agrawal Institute of Engineering & Technology, Navsari.</strong></p>
 
