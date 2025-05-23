@@ -1,5 +1,6 @@
-<p align="center"><img src="./banner.png" /></p>
-<h1 align="center">hii 👋 i'm Dhruv Ghinaiya</h1>
+<p align="center">
+  <img src="./banner.png" width="100%" height="400" />
+</p><h1 align="center">hii 👋 i'm Dhruv Ghinaiya</h1>
 <p align="center"><strong>Graduated with a B.E. in Computer Engineering from S.S. Agrawal Institute of Engineering & Technology, Navsari.</strong></p>
 
 # 💻 Tech Stack:
