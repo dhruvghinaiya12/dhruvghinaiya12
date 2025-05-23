@@ -1,6 +1,6 @@
 <p align="center"><img src="https://media.tenor.com/bQCwwu0yF90AAAAi/developer-workstation.gif" /></p>
 <h1 align="center">hii 👋 i'm Dhruv Ghinaiya</h1>
-<p align="center"><strong>Graduate from S.S. Agrawal Institute of Engineering & Technology, Navsari</strong></p>
+<p align="center"><strong>Graduated with a B.E. in Computer Engineering from S.S. Agrawal Institute of Engineering & Technology, Navsari</strong></p>
 
 # 💻 Tech Stack:
 
