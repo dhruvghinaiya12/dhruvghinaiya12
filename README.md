@@ -1,5 +1,6 @@
 <p align="center"><img src="https://media.tenor.com/bQCwwu0yF90AAAAi/developer-workstation.gif" /></p>
 <h1 align="center">hii 👋 i'm Dhruv Ghinaiya</h1>
+<p align="center"><strong>Graduate from S.S. Agrawal Institute of Engineering & Technology, Navsari</strong></p>
 
 # 💻 Tech Stack:
 
@@ -38,15 +39,13 @@
 # 🔗 Connect with me:
 
 <p align="center">
-  <a href="https://github.com/dhruvghinaiya12" target="_blank" rel="noopener noreferrer" style="margin-right: 20px;">
+  <a href="https://github.com/dhruvghinaiya12" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/dhruv-ghinaiya12" target="_blank" rel="noopener noreferrer" style="margin-right: 20px;">
+  <a href="https://www.linkedin.com/in/dhruv-ghinaiya12" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/DhrrUVvvvvvvvvv" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/X-%23ff0000.svg?style=plastic&logo=twitter&logoColor=white" alt="X (Twitter)" />
   </a>
 </p>
-
-
